@@ -6,6 +6,8 @@ web-build/
 
 # Dependencies
 node_modules/
+package-lock.json
+yarn.lock
 
 # Native
 android/
