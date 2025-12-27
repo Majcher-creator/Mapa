@@ -1,0 +1,34 @@
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Dependencies
+node_modules/
+
+# Native
+android/
+ios/
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.vscode/
+.idea/
+
+# Temporary files
+*.orig.*
+*.swp
+*.swo
+*~
